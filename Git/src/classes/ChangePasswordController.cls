@@ -6,9 +6,9 @@ public with sharing class ChangePasswordController {
     public String newPassword {get; set;}
     public String verifyNewPassword {get; set;}        
     
-    //Gad 17 : 22
+    //Gad 17:22
     
-    //gad 13.3. gadgadgagda
+    //gad 13.3. asdfpiuasdflkjabwelifuhwUIDFH
     
     
     //Comment.
@@ -35,5 +35,5 @@ public with sharing class ChangePasswordController {
     //noam 16-03-2014 9:49
     // noam 16-03-2014 9:59
     
-    //Gad 16.3.14 15:19 - gadsBranch.
+    //Gad Master 16:08
 }
