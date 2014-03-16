@@ -6,7 +6,7 @@ public with sharing class ChangePasswordController {
     public String newPassword {get; set;}
     public String verifyNewPassword {get; set;}        
     
-    //Gad 17
+    //Gad 17 : 22
     
     //gad 13.3.
     
